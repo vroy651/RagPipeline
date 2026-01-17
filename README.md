@@ -94,5 +94,11 @@ python rag_pipeline.py
 - `requirements.txt`: Python package dependencies.
 - `.env`: (User Created) Holds the sensitive API keys.
 
+## 📸 Demonstration
+
+Below is a screenshot of the pipeline in action, showing the temporal conflict resolution and grounding rules:
+
+![TechCorp RAG Pipeline In Action](assets/output_demo.png)
+
 ---
 *Developed for TechCorp HR Solutions*
