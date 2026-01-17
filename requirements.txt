@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+flashrank
+sentence-transformers
+python-dotenv
